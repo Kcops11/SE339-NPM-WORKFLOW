@@ -1,0 +1,19 @@
+{
+  "name": "se339-npm-workflow",
+  "version": "1.0.0",
+  "description": "test for class 339",
+  "main": "index.js",
+  "scripts": {
+    "test": "run node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kcops11/SE339-NPM-WORKFLOW.git"
+  },
+  "author": "dwright@iastate.edu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kcops11/SE339-NPM-WORKFLOW/issues"
+  },
+  "homepage": "https://github.com/Kcops11/SE339-NPM-WORKFLOW#readme"
+}
